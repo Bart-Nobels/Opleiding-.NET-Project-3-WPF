@@ -1,0 +1,14 @@
+.vs/
+obj/
+bin/Debug/Gebruikers.json
+bin/Debug/Project 3 - Arcade.exe
+bin/Debug/Project 3 - Arcade.pdb
+Word/
+Excel/
+WordExcelStatic.cs
+bin/Debug/Cooldowns.json
+bin/Debug/ScoresSnake.json
+bin/Debug/ScoresTetris.json
+bin/Debug/ScoresFlappyBird.json
+bin/Debug/ScoresEndlessRunner.json
+bin/Debug/ScoresZombieShooter.json
